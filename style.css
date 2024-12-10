@@ -1,0 +1,147 @@
+#header-img{
+    width: 30px;
+
+
+}
+
+#nav-bar{
+    display: inline;
+}
+#header{
+    text-align: center;
+    background-color: rgb(120, 103, 134);
+    padding: 15px;
+}
+.features{
+    padding-right: 10px;
+    border-right: 1px solid white;
+    
+
+}
+.see{
+    border-right: 1px solid whitesmoke;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.purchase{
+    border-right: 1px solid whitesmoke;
+    padding-right: 10px;
+    padding-left: 10px;
+
+
+}
+
+#line1{
+    width: 30px;
+    
+
+}
+#line2{
+    width: 30px;
+}
+#line3{
+    width: 30px;
+}
+ul{
+    /* list-style-image: url(./image/Pokeball.png); */
+    text-align: center;
+   list-style: none;
+   color: white;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 1.em;
+}
+p{
+    text-align: center;
+    color: white;
+}
+#body{
+    background-color: rgb(65, 58, 71);
+    height: 109vh;
+}
+.container{
+    padding: 10px;
+     display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+ 
+.item{
+    background-color: #92869c;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    color: black; 
+    text-size-adjust: 20px; 
+    
+    
+}
+li{
+    text-align: center;
+    color: white;
+    
+}
+div{
+    display: block;
+}
+h3{
+    text-align: center;
+}
+/* .flex-mem-box { 
+    background-color: #92869c;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+} */
+.item-1{
+    color: black;
+}
+#memlist{
+    color: black;
+    list-style: circle;
+}
+
+.price{
+    color: black;
+}
+.bottom{
+    position: absolute;
+    top: 107%;
+    
+
+}
+.project{
+    padding: 10px;
+    border-right: 1px solid right;
+    color: whitesmoke;
+}
+.home{
+    padding: 10px;
+    border-left: 1px solid left;
+    color: whitesmoke;
+}
+#email1{
+    position: absolute;
+    top: 62%;
+    left: 27%;
+    background-color: #92869c;
+}
+#submit{
+    position: absolute;
+    
+}
